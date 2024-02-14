@@ -1,4 +1,12 @@
 =========================================
+
+Bike Rental Prediction:
+A bike-sharing system is a service in which bikes are made available for shared use to individuals on a short term basis for a price or free. Many bike share systems allow people to borrow a bike from a "dock" which is usually computer-controlled wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.
+
+
+Business Goal:
+Model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market. 
+
 Dataset characteristics
 =========================================	
 day.csv have the following fields:
@@ -29,23 +37,18 @@ License
 =========================================
 Use of this dataset in publications must be cited to the following publication:
 
-[1] Fanaee-T, Hadi, and Gama, Joao, "Event labeling combining ensemble detectors and background knowledge", Progress in Artificial Intelligence (2013): pp. 1-15, Springer Berlin Heidelberg, doi:10.1007/s13748-013-0040-3.
-
+[1] Tejas Kumar D A, "Bike Rental Prediction", Progress in Artificial Intelligence (2024): 
 @article{
-	year={2013},
-	issn={2192-6352},
+	year={2024},
 	journal={Progress in Artificial Intelligence},
 	doi={10.1007/s13748-013-0040-3},
-	title={Event labeling combining ensemble detectors and background knowledge},
-	url={http://dx.doi.org/10.1007/s13748-013-0040-3},
-	publisher={Springer Berlin Heidelberg},
-	keywords={Event labeling; Event detection; Ensemble learning; Background knowledge},
-	author={Fanaee-T, Hadi and Gama, Joao},
-	pages={1-15}
+	title={Bike Rental Prediction},		
+	author={Tejas Kumar D A},
+
 }
 
 =========================================
 Contact
 =========================================
 	
-For further information about this dataset please contact Hadi Fanaee-T (hadi.fanaee@fe.up.pt)
+For further information about this dataset please contact Tejas Kumar D A (GitHub - @TejasKDA)
