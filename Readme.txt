@@ -41,7 +41,6 @@ Use of this dataset in publications must be cited to the following publication:
 @article{
 	year={2024},
 	journal={Progress in Artificial Intelligence},
-	doi={10.1007/s13748-013-0040-3},
 	title={Bike Rental Prediction},		
 	author={Tejas Kumar D A},
 
